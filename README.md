@@ -1,7 +1,7 @@
 # pygame-zero-projects
 Code for simple games in Pygame Zero
 
-This repository contains code for some simple games which students could make in PyGame Zero.
+This repository contains code for some simple games which students could make with PyGame Zero.
 
 Order should probably go something like:
 
